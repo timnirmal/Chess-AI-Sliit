@@ -1,0 +1,13 @@
+{
+  "name": "Chess-AI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "timnirmal",
+  "scripts": {
+    "start": "http-server ./"
+  },
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
