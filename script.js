@@ -33,7 +33,7 @@ var config = {
     snapSpeed: 100,
 
     // You can check other configuration on
-    https://chessboardjs.com/examples#1000
+    //https://chessboardjs.com/examples#1000
 };
 
 board = ChessBoard('board', config);
