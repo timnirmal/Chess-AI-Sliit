@@ -21,7 +21,7 @@ var onMouseoutSquare = function(square, piece) {
 };
 
 var config = {
-
+    position: 'start'
 };
 
 board = ChessBoard('board', config);
